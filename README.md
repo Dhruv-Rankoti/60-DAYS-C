@@ -4,8 +4,8 @@ I am creating this repo for beginners to understand and practice C language thro
 You will get new questions everyday to pratice and learn from them.
 Solutions will be uploaded on the following days.
 
-<h3>DAY 4 Problem-</h3>
-<h3>Write a Program to convert temperature from Celcius to Farenheit.</h3>
+<h3>DAY 5 Problem-</h3>
+<h3>Write a Program to find the roots of a quadratic equation.</h3>
 
 <br>
 Author - Dhruv Kumar Rankoti
