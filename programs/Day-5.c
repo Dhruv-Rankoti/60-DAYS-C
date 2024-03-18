@@ -33,4 +33,4 @@ void main()
 }
 
 // DAY-6 Problem
-// Write a Program to calculate Simple and Compund interest.
+// Write a Program to calculate Simple and Compound interest.
