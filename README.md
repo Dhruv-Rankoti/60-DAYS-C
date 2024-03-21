@@ -4,8 +4,8 @@ I am creating this repo for beginners to understand and practice C language thro
 You will get new questions everyday to pratice and learn from them.
 Solutions will be uploaded on the following days.
 
-<h3>DAY 9 Problem-</h3>
-<h3>Write a Program to display the characters for the ASCII value and vice versa.</h3>
+<h3>DAY 10 Problem-</h3>
+<h3>Write a Program to display size of Integer, Floating Point and Character using size of operator.</h3>
 
 <br>
 Author - Dhruv Kumar Rankoti
