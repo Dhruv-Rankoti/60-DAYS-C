@@ -4,8 +4,8 @@ I am creating this repo for beginners to understand and practice C language thro
 You will get new questions everyday to pratice and learn from them.
 Solutions will be uploaded on the following days.
 
-<h3>DAY 13 Problem-</h3>
-<h3>Write a Program to calculate area of circle, triangle, square, rectangle or parallelogram based on user's choice.</h3>
+<h3>DAY 14 Problem-</h3>
+<h3>Write a Program to design a simple calculator.</h3>
 
 <br>
 Author - Dhruv Kumar Rankoti
