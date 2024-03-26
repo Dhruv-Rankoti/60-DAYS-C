@@ -5,11 +5,10 @@
 int main(){
     int a,b;
     char op;
-    float value;
     printf("Simple Calculator : \n");
     printf("It can perform addition(+), subtraction(-), multiplication(*) and division(/).\n");
     printf("Write the input in a form of axb : ");
-    scanf("%d%c%d", &a,&op,&b);
+    scanf("%d%c%d", &a, &op, &b);
 
     switch(op){
         case '+':
