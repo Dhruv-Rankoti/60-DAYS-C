@@ -4,14 +4,15 @@
 
 int main(){
     int num;
-    unsigned long long int fact = 1;
+    unsigned long long int fact;
+    fact = 1;
     printf("Enter a number : ");
     scanf("%d", &num);
     for(int i = 1; i <= num; i++){
         fact *= i;
     }
     if(num >= 0){
-        printf("Factorial of %d is %d.", num, fact);
+        printf("Factorial of %d is %llu.", num, fact);
     } else{
         printf("Error! Factorial of a negative number doesn't exist.");
     }
