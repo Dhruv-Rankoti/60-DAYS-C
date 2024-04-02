@@ -21,3 +21,8 @@ Q-18. Write a Program to calculate factorial of a number.
 Q-19. Write a Program to calculate primes between 1 to 100.
 Q-20. Write a Program to print first n odd numbers and their sum.
 Q-21. Write a Program to print Fibonacci Series (in numbers).
+Q-22. Write a Program to print given patterns - 
+      *                *
+      **              * *
+      ***            * * *
+      ****          * * * *
