@@ -4,8 +4,8 @@ I am creating this repo for beginners to understand and practice C language thro
 You will get new questions everyday to pratice and learn from them.
 Solutions will be uploaded on the following days.
 
-<h3>DAY 23 Problem-</h3>
-<h3>Write a Program to swap two numbers using Call by Value and Call by Reference.<br>
+<h3>DAY 24 Problem-</h3>
+<h3>Write a Program to find factorial of a number using recursion.<br>
 
 <br>
 Author - Dhruv Kumar Rankoti
