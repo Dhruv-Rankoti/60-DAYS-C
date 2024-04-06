@@ -28,7 +28,8 @@ int main(){
     // The result is 10101100
     printf("b << 1 = %d\n", b << 2);
 
-    // Shift Right is 00001010
+    // Shift Right
+    // The result is 00001010
     printf("b >> 1 = %d\n", b >> 2);
     return 0;
 }
