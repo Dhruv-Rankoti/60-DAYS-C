@@ -4,8 +4,8 @@ I am creating this repo for beginners to understand and practice C language thro
 You will get new questions everyday to pratice and learn from them.
 Solutions will be uploaded on the following days.
 
-<h3>DAY 28 Problem-</h3>
-<h3>Write a Program to calculate cube of a number using function.<br>
+<h3>DAY 29 Problem-</h3>
+<h3>Write a program to check whether the entered number is armstrong or not.<br>
 
 <br>
 Author - Dhruv Kumar Rankoti
