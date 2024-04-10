@@ -20,4 +20,4 @@ int cubeOfNumber(int num){
 }
 
 // DAY-29 Problem
-// Write a program to check whether the entered number is armstrong or not.
+// Write a Program to check whether the entered number is armstrong or not.
