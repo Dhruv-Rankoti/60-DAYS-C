@@ -4,8 +4,8 @@ I am creating this repo for beginners to understand and practice C language thro
 You will get new questions everyday to pratice and learn from them.
 Solutions will be uploaded on the following days.
 
-<h3>DAY 43 Problem-</h3>
-<h3>Write a Program to check whether the entered string is Palindrome or not using user defined function.</h3>
+<h3>DAY 44 Problem-</h3>
+<h3>Write a Program to count number of uppercase, lowercase, digits and special characters in a string.</h3>
 
 <br>
 Author - Dhruv Kumar Rankoti
