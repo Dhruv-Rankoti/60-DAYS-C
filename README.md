@@ -5,7 +5,7 @@ You will get new questions everyday to pratice and learn from them.
 Solutions will be uploaded on the following days.
 
 <h3>DAY 45 Problem-</h3>
-<h3>Write a program to sort a list of strings into alphabetical order.</h3>
+<h3>Write a Program to sort a list of strings into alphabetical order.</h3>
 
 <br>
 Author - Dhruv Kumar Rankoti
