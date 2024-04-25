@@ -13,7 +13,7 @@ int main(){
     int digits = 0;
     int special = 0;
 
-    for (int i = 0; i < strlen(str) - 1; i++) { // excludes the '\n' character at the end of the string
+    for (int i = 0; i < strlen(str) - 1; i++) { // excludes the '\n' character at the end of the string.
         if (str[i] >= 'A' && str[i] <= 'Z') {
             uppercase++;
         } else if (str[i] >= 'a' && str[i] <= 'z') {
