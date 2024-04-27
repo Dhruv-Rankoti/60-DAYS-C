@@ -39,4 +39,4 @@ int main(){
 }
 
 // DAY-46 Problem
-// Write a recursive Problem for Towers of Hanoi Problem.
+// Write a recursive Program for Towers of Hanoi Problem.

@@ -54,4 +54,5 @@ Q-42. Write a Program to concatenate two strings using user defined function.
 Q-43. Write a Program to check whether the entered string is Palindrome or not using user defined function.
 Q-44. Write a Program to count number of uppercase, lowercase, digits and special characters in a string.
 Q-45. Write a Program to sort a list of strings into alphabetical order.
-Q-46. Write a recursive Problem for Towers of Hanoi Problem.
+Q-46. Write a recursive Program for Towers of Hanoi Problem.
+Q-47. Write a Program to use pointer to a pointer.
