@@ -1,26 +1,38 @@
-// Write a Program to use pointer to a pointer.
+// Write a Program to increment/decrement a pointer.
 
 #include <stdio.h>
 
-int main(){
-    int var = 5;
+int main() {
+    int arr[] = {1, 2, 3, 4, 5};
     int *ptr;
-    int **p_ptr; // declares a pointer to a pointer to an integer
+    ptr = arr;
+    
+    printf("Original array: ");
+    for (int i = 0; i < 5; i++) {
+        printf("%d ", *(ptr + i));
+    }
+    printf("\n");
 
-    ptr = &var; // storing address of var in ptr
-    p_ptr = &ptr; // storing address of ptr in p_ptr
+    // Increment the pointer to point to the next element
+    ptr++;
 
-    // print the value of var
-    printf("Value of var = %d\n", var);
+    printf("Array after incrementing pointer: ");
+    for (int i = 0; i < 4; i++) {
+        printf("%d ", *(ptr + i));
+    }
+    printf("\n");
 
-    // print the value of var using single pointer
-    printf("Value of var using single pointer = %d\n", *ptr);
+    // Decrement the pointer to point to the previous element
+    ptr--;
 
-    // print the value of var using double pointer
-    printf("Value of var using double pointer = %d\n", **p_ptr);
+    printf("Array after decrementing pointer: ");
+    for (int i = 0; i < 5; i++) {
+        printf("%d ", *(ptr + i));
+    }
+    printf("\n");
 
-    return 0;
+    return 0; 
 }
 
 // DAY 48 Problem
-// Write a Program to increment/decrement a pointer.
+// Write a Program to use pointer to a pointer.

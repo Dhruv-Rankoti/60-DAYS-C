@@ -25,4 +25,4 @@ int main() {
 }
 
 // DAY 47 Problem
-// Write a Program to use pointer to a pointer.
+// Write a Program to increment/decrement a pointer.
