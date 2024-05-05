@@ -63,3 +63,4 @@ Q-51. Write a Program to add two complex numbers using structures.
 Q-52. Write a Program to store information of n students using structures.
 Q-53. Write a Program to open a file, write some content and close it.
 Q-54. Write a Program to open a file, read its content and close it.
+Q-55. An array of record contains information of managers and workers of a company. Write a Program to print all the data of workers and managers in a separate file.
